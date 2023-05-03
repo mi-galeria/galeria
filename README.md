@@ -19,3 +19,13 @@ a partir de dicho repositorio los miebros o colaboradores podran hacer un fork h
 para crear un fork debes iniciar cesion en github y luego ingresar a la landing page del proyecto del que
 quieras sacarle tu fork
 
+##  como trabajar con dos o mas remotos
+
+Listar remotos
+git remote -v
+
+Agregar remotos
+git remote add mi-galeria https://git....
+
+Eliminar remotos
+git remote remove mi-galeria
